@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'FenomenSans';
+	src: url('fonts/FenomenSans-Light.ttf')	format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fenomen Sans';
+	src: url('fonts/FenomenSans-Book.ttf');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fenomen Sans';
+	src: url('fonts/FenomenSans.ttf');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FenomenSans';
+	src: url('fonts/FenomenSans-SemiBold.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fenomen Sans';
+	src: url('fonts/FenomenSans-Bold.ttf');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Fenomen Sans';
+	src: url('fonts/FenomenSans-Black.ttf');
+	font-weight: 800;
+	font-style: normal;
+}
