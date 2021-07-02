@@ -4,9 +4,9 @@ This is a simple text HTML template for use with CasparCG.
 ### usage ###
 Add to your `templates` folder you've likely already configured.
 
-* play() adds it to screen
-* stop() sets the class to `display:none`
-* update() updates the values to match the new values
+* `PLAY` adds it to screen
+* `STOP` sets the class to `display:none`
+* `UPDATE` updates the values to match the new values
 * use `CLEAR` and `PLAY` again to refresh the files in case of code modification real-time
 
 Use the keys below, sent as JSON:
