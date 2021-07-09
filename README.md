@@ -11,11 +11,11 @@ Add to your `templates` folder you've likely already configured.
 
 Use the keys below, sent as JSON:
 * texto - text content
-* fonte - font
+* fonte - font family
 * cor - color (hex or rgba)
-* estilo - weight
-* tamanho - size (pixels)
-* espaco - letter spacing (pixels)
+* estilo - font weight
+* tamanho - size (px)
+* espaco - letter spacing (em)
 
 ### modifications ###
 To change the key names you can just modify the  `texto.js` file.
